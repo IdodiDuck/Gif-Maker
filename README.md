@@ -1,10 +1,8 @@
 <h1 align="center">🎬 GIF-Maker </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
-  <img src="https://img.shields.io/badge/Author-Ido_Redid-blue?style=flat-square" />
 </p>
 
 ---
@@ -40,6 +38,3 @@ This program allows the user to **manage movies/gifs** with frame-level control 
 
 - Windows 10  
 - OpenCV (required if building from source, included as DLL in release)  
-
-// Example: Loading a project file
-loadProject("examples/example_project.gproj");
