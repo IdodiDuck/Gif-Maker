@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (finalProjectIdoRedid.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  filesTests.c
+  linkedList.c
+  prog.c
+c:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+  projectFile.c
+C:\Users\Cyber_User\source\repos\Final Project C2\Gif-Maker\Gif-Maker\projectFile.c(103,46): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\Cyber_User\source\repos\Final Project C2\Gif-Maker\Gif-Maker\projectFile.c(135,46): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+  ui.c
+  view.c
+c:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+  Generating Code...
+  Gif-Maker.vcxproj -> C:\Users\Cyber_User\source\repos\Final Project C2\Gif-Maker\x64\Debug\Gif Maker.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
