@@ -1,10 +1,4 @@
 <h1 align="center">🎬 GIF-Maker </h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-</p>
-
 ---
 
 ## 📝 Description
