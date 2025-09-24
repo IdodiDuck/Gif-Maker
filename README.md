@@ -1,5 +1,4 @@
 <h1 align="center">🎬 GIF-Maker </h1>
----
 
 ## 📝 Description
 
